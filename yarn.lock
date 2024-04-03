@@ -6271,7 +6271,7 @@ __metadata:
     "@graphql-codegen/typescript-react-apollo": 3.2.16
     "@graphql-codegen/typescript-resolvers": 2.6.6
     "@redwoodjs/graphql-server": 2.0.0
-    "@types/babel-plugin-tester": 9.0.5
+    "@types/babel-plugin-tester": 9.0.10
     "@types/babel__core": 7.1.19
     "@types/findup-sync": 4.0.2
     "@types/fs-extra": 9.0.13
@@ -8046,13 +8046,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/babel-plugin-tester@npm:9.0.5, @types/babel-plugin-tester@npm:^9.0.0":
-  version: 9.0.5
-  resolution: "@types/babel-plugin-tester@npm:9.0.5"
+"@types/babel-plugin-tester@npm:9.0.10, @types/babel-plugin-tester@npm:^9.0.0":
+  version: 9.0.10
+  resolution: "@types/babel-plugin-tester@npm:9.0.10"
   dependencies:
     "@types/babel__core": "*"
-    "@types/prettier": "*"
-  checksum: 716bd9e5e7996c13ff2f1d15c5b47d59ce925ab617f4b218cc8c627257af71ebfe62eec058a66c380a59030f56ad838e2930cd9ab39c6a95e334642d8ca504ec
+    "@types/prettier": ^2.0.0
+  checksum: 5f593868f2ec94dfe1eeaefd787936805f17c2964c1c93d9b28f1b389a75d0d2ed3c2f69b3e4bd119284a8273bf4279f249e4b4c9933507a60db01e16338180a
   languageName: node
   linkType: hard
 
@@ -8758,10 +8758,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/prettier@npm:*, @types/prettier@npm:2.6.3, @types/prettier@npm:^2.1.5":
+"@types/prettier@npm:2.6.3":
   version: 2.6.3
   resolution: "@types/prettier@npm:2.6.3"
   checksum: ac51e59ef24793d7e747483c417706d62408ef406962e077ff89d10f009e42ab7bf0452d9a406493fd5bc37b4f1b71f507b045d775083d6987526bc7a74f01ea
+  languageName: node
+  linkType: hard
+
+"@types/prettier@npm:^2.0.0, @types/prettier@npm:^2.1.5":
+  version: 2.7.3
+  resolution: "@types/prettier@npm:2.7.3"
+  checksum: 0960b5c1115bb25e979009d0b44c42cf3d792accf24085e4bfce15aef5794ea042e04e70c2139a2c3387f781f18c89b5706f000ddb089e9a4a2ccb7536a2c5f0
   languageName: node
   linkType: hard
 
