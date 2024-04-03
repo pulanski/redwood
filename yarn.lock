@@ -6056,7 +6056,7 @@ __metadata:
     "@babel/plugin-transform-typescript": 7.16.7
     "@babel/runtime-corejs3": 7.16.7
     "@types/babel__core": 7.1.19
-    "@types/findup-sync": 4.0.2
+    "@types/findup-sync": 4.0.5
     "@types/fs-extra": 9.0.13
     "@types/jest": 27.5.2
     "@types/jscodeshift": 0.11.5
@@ -6273,7 +6273,7 @@ __metadata:
     "@redwoodjs/graphql-server": 2.0.0
     "@types/babel-plugin-tester": 9.0.10
     "@types/babel__core": 7.1.19
-    "@types/findup-sync": 4.0.2
+    "@types/findup-sync": 4.0.5
     "@types/fs-extra": 9.0.13
     "@types/rimraf": 3.0.2
     babel-plugin-graphql-tag: 3.3.0
@@ -8322,12 +8322,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/findup-sync@npm:4.0.2":
-  version: 4.0.2
-  resolution: "@types/findup-sync@npm:4.0.2"
+"@types/findup-sync@npm:4.0.5":
+  version: 4.0.5
+  resolution: "@types/findup-sync@npm:4.0.5"
   dependencies:
-    "@types/micromatch": "*"
-  checksum: f7c169a5fa48aa0f5e4aba25cdff412aa1817f7b60c62a9c915325b852177431f1ecffcb29537799c438ecc192e87748aabf67b478d677cc2811a6732fbd7849
+    "@types/micromatch": ^4.0.0
+  checksum: 1ce1cec9febafbb266c4ceb99d2d2324b02896a3a578ae8dc160bcd5f3c84cf629b41197d7be53a13a10eaf0979c3f96947f978c5cfbc056ccf9eecf4938118f
   languageName: node
   linkType: hard
 
@@ -8609,12 +8609,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/micromatch@npm:*":
-  version: 4.0.2
-  resolution: "@types/micromatch@npm:4.0.2"
+"@types/micromatch@npm:^4.0.0":
+  version: 4.0.6
+  resolution: "@types/micromatch@npm:4.0.6"
   dependencies:
     "@types/braces": "*"
-  checksum: e557324460e658283778c77d0f8995ee95e371c4fd54474b3186e947486427cc4af66b841393304b65c09a7bb36710158260db7a7cf761384e1a9a728e82e6f4
+  checksum: deba87b2bb740cb3f206c006baddc2d3f411fdba48e47452fb189a2a1a73cc3d6f6f2e6f52b970d1383e988afd9f12046e50f902ad740f1f8afa3faa273ab2a0
   languageName: node
   linkType: hard
 
