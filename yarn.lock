@@ -5887,7 +5887,7 @@ __metadata:
     "@fastify/static": 5.0.2
     "@fastify/url-data": 4.0.0
     "@types/aws-lambda": 8.10.97
-    "@types/lodash.escape": 4.0.7
+    "@types/lodash.escape": 4.0.9
     "@types/qs": 6.9.7
     "@types/split2": 3.2.1
     "@types/yargs": 17.0.10
@@ -8527,12 +8527,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/lodash.escape@npm:4.0.7":
-  version: 4.0.7
-  resolution: "@types/lodash.escape@npm:4.0.7"
+"@types/lodash.escape@npm:4.0.9":
+  version: 4.0.9
+  resolution: "@types/lodash.escape@npm:4.0.9"
   dependencies:
     "@types/lodash": "*"
-  checksum: cc980619559a3e67f40d078e76da67d110eecec7f774987bf595349e4642ce3110ec61a787a98ab89ea6d5c9dc5b1b16b47ceb878e678e3b7dc30e5d6b22fc97
+  checksum: f25bcea365694cddb16bc2a3667c5fe6b0a075ccd351c2c38c388cb32071926e10addfeb2eff9188ef3f2983304c597505beac850e267ebe92bdc21ccc40375f
   languageName: node
   linkType: hard
 
