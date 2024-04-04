@@ -6354,7 +6354,7 @@ __metadata:
     "@babel/runtime-corejs3": 7.16.7
     "@reach/skip-nav": 0.16.0
     "@redwoodjs/auth": 2.0.0
-    "@types/lodash.isequal": 4.5.6
+    "@types/lodash.isequal": 4.5.8
     "@types/react": 17.0.45
     "@types/react-dom": 17.0.17
     core-js: 3.23.2
@@ -8536,12 +8536,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/lodash.isequal@npm:4.5.6":
-  version: 4.5.6
-  resolution: "@types/lodash.isequal@npm:4.5.6"
+"@types/lodash.isequal@npm:4.5.8":
+  version: 4.5.8
+  resolution: "@types/lodash.isequal@npm:4.5.8"
   dependencies:
     "@types/lodash": "*"
-  checksum: d14cb561e3db36b80bde1d6eea5b012c46c8bb7a7dadb2844bd80b209d7c324eb54ad5ca7b6e57c253593662d8fc676da430f2216aaca1c04b087d38030151ae
+  checksum: 6db28cacf165d55421fbf2970ccfb1682a7b82b743bb7aba4398fa8ab98f1711fca2fe4afa1aa2b7b4afb3eff76c8aca13b22206f5efeb038d99e41300589bca
   languageName: node
   linkType: hard
 
