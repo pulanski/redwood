@@ -6008,7 +6008,7 @@ __metadata:
     "@redwoodjs/prerender": 2.0.0
     "@redwoodjs/structure": 2.0.0
     "@redwoodjs/telemetry": 2.0.0
-    "@types/listr": 0.14.4
+    "@types/listr": 0.14.9
     boxen: 5.1.2
     camelcase: 6.3.0
     chalk: 4.1.2
@@ -8517,13 +8517,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/listr@npm:0.14.4":
-  version: 0.14.4
-  resolution: "@types/listr@npm:0.14.4"
+"@types/listr@npm:0.14.9":
+  version: 0.14.9
+  resolution: "@types/listr@npm:0.14.9"
   dependencies:
     "@types/node": "*"
     rxjs: ^6.5.1
-  checksum: 4ab81b0bd6f79b22b9dcd88a3dd72a8cc9aae9e8d316daa93a32b3a0048c18720a183ffc087b02935175910c178aa27bc0152aa8801c3f7d8315f5391f96ec97
+  checksum: c0110530ccfd3b96ad9129e44c29bed996e5d9df41611e25881d4fb029cdbd7005e99dcfe8a5cefcce3092e43e893a72c824a8330e12bcfd376000a3686d9ef6
   languageName: node
   linkType: hard
 
