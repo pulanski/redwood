@@ -5928,7 +5928,7 @@ __metadata:
     "@types/crypto-js": 4.1.1
     "@types/jsonwebtoken": 8.5.9
     "@types/md5": 2.3.5
-    "@types/pascalcase": 1.0.1
+    "@types/pascalcase": 1.0.3
     "@types/split2": 3.2.1
     "@types/uuid": 8.3.4
     aws-lambda: 1.0.7
@@ -6195,7 +6195,7 @@ __metadata:
     "@testing-library/jest-dom": 5.16.4
     "@testing-library/react": 12.1.5
     "@testing-library/user-event": 14.2.0
-    "@types/pascalcase": 1.0.1
+    "@types/pascalcase": 1.0.3
     "@types/react": 17.0.45
     "@types/react-dom": 17.0.17
     "@types/testing-library__jest-dom": 5.14.3
@@ -8735,10 +8735,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/pascalcase@npm:1.0.1":
-  version: 1.0.1
-  resolution: "@types/pascalcase@npm:1.0.1"
-  checksum: beb5e1568f9dc2335c20c1f7df1332b0a357c6492e3ba04e14e0b908ff2e10509c94a991d1f90a384a0dae7c862d8c1107141dacab80532738fadd085cdbb26e
+"@types/pascalcase@npm:1.0.3":
+  version: 1.0.3
+  resolution: "@types/pascalcase@npm:1.0.3"
+  checksum: 4bc93fee5a7e3ea63a1c92f66cc72462dc557430c705ecefd834181950a779cf188f24e9afac15687ff9fdf360cb5f233130c6fc92d4bb94772551557adb8281
   languageName: node
   linkType: hard
 
