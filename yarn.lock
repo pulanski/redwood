@@ -5981,7 +5981,7 @@ __metadata:
     "@nhost/nhost-js": 1.1.14
     "@supabase/supabase-js": 1.35.7
     "@types/netlify-identity-widget": 1.9.6
-    "@types/react": 17.0.45
+    "@types/react": 17.0.80
     core-js: 3.23.2
     firebase: 9.8.3
     firebase-admin: 10.2.0
@@ -6128,7 +6128,7 @@ __metadata:
     mini-css-extract-plugin: 2.6.0
     nodemon: 2.0.22
     null-loader: 4.0.1
-    react-refresh: 0.13.0
+    react-refresh: 0.14.0
     rimraf: 3.0.2
     style-loader: 3.3.1
     svg-react-loader: 0.4.6
@@ -6177,7 +6177,7 @@ __metadata:
     eslint-plugin-jsx-a11y: 6.5.1
     eslint-plugin-prettier: 4.0.0
     eslint-plugin-react: 7.30.0
-    eslint-plugin-react-hooks: 4.5.0
+    eslint-plugin-react-hooks: 4.6.0
     jest: 27.5.1
     prettier: 2.7.1
     typescript: 4.7.3
@@ -6196,8 +6196,8 @@ __metadata:
     "@testing-library/react": 12.1.5
     "@testing-library/user-event": 14.2.0
     "@types/pascalcase": 1.0.3
-    "@types/react": 17.0.45
-    "@types/react-dom": 17.0.17
+    "@types/react": 17.0.80
+    "@types/react-dom": 17.0.25
     "@types/testing-library__jest-dom": 5.14.9
     core-js: 3.23.2
     graphql: 16.5.0
@@ -6355,8 +6355,8 @@ __metadata:
     "@reach/skip-nav": 0.16.0
     "@redwoodjs/auth": 2.0.0
     "@types/lodash.isequal": 4.5.8
-    "@types/react": 17.0.45
-    "@types/react-dom": 17.0.17
+    "@types/react": 17.0.80
+    "@types/react-dom": 17.0.25
     core-js: 3.23.2
     jest: 27.5.1
     lodash.isequal: 4.5.0
@@ -6455,8 +6455,8 @@ __metadata:
     "@types/babel-core": 6.25.7
     "@types/jest": 27.5.2
     "@types/node": 16.11.38
-    "@types/react": 17.0.45
-    "@types/react-dom": 17.0.17
+    "@types/react": 17.0.80
+    "@types/react-dom": 17.0.25
     "@types/webpack": 5.28.0
     babel-jest: 27.5.1
     babel-plugin-inline-react-svg: 2.0.1
@@ -6482,8 +6482,8 @@ __metadata:
     "@testing-library/jest-dom": 5.16.4
     "@testing-library/react": 12.1.5
     "@types/prop-types": 15.7.12
-    "@types/react": 17.0.45
-    "@types/react-dom": 17.0.17
+    "@types/react": 17.0.80
+    "@types/react-dom": 17.0.25
     "@types/testing-library__jest-dom": 5.14.9
     core-js: 3.23.2
     graphql: 16.5.0
@@ -8810,12 +8810,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-dom@npm:17.0.17, @types/react-dom@npm:<18.0.0":
-  version: 17.0.17
-  resolution: "@types/react-dom@npm:17.0.17"
+"@types/react-dom@npm:17.0.25, @types/react-dom@npm:<18.0.0":
+  version: 17.0.25
+  resolution: "@types/react-dom@npm:17.0.25"
   dependencies:
     "@types/react": ^17
-  checksum: 1e330f6e1c0794562a8d3459357b5b401b6f23185991bdaf9e5025cad7ccace502662b071db765b07b0d79f313be1a7584c5ef775b1062d76585b6b9aec0693c
+  checksum: 18a95d4d684cacc697d97ae66e3c8402da2f866c053fa6a5982694aa8eb6229afcefd3bfaaab4175c1b0ef3494c881e4d25e2167aa669bcbbb84114fd02ae5ba
   languageName: node
   linkType: hard
 
@@ -8837,14 +8837,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:17.0.45":
-  version: 17.0.45
-  resolution: "@types/react@npm:17.0.45"
+"@types/react@npm:17.0.80":
+  version: 17.0.80
+  resolution: "@types/react@npm:17.0.80"
   dependencies:
     "@types/prop-types": "*"
-    "@types/scheduler": "*"
+    "@types/scheduler": ^0.16
     csstype: ^3.0.2
-  checksum: c8736331aed7a561758757a09ddbed801b7d0a931378741a271afa230403d5306a0d5119a0621f40366d59a5f0174e4c569547e1e4767bb0c287835ec4966cb5
+  checksum: c5d2862564212a41a327ea9c7e70b9d3996d9b0f67971d39519d42d1f3ae6ddf76b183457b7b0be9d7b5d6ff0aaeed5711448423406d20018f082077c984eec4
   languageName: node
   linkType: hard
 
@@ -8874,10 +8874,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/scheduler@npm:*":
-  version: 0.16.2
-  resolution: "@types/scheduler@npm:0.16.2"
-  checksum: 89a3a922f03609b61c270d534226791edeedcb1b06f0225d5543ac17830254624ef9d8a97ad05418e4ce549dd545bddf1ff28cb90658ff10721ad14556ca68a5
+"@types/scheduler@npm:^0.16":
+  version: 0.16.8
+  resolution: "@types/scheduler@npm:0.16.8"
+  checksum: f86de504945b8fc41b1f391f847444d542e2e4067cf7e5d9bfeb5d2d2393d3203b1161bc0ef3b1e104d828dabfb60baf06e8d2c27e27ff7e8258e6e618d8c4ec
   languageName: node
   linkType: hard
 
@@ -15430,12 +15430,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-react-hooks@npm:4.5.0":
-  version: 4.5.0
-  resolution: "eslint-plugin-react-hooks@npm:4.5.0"
+"eslint-plugin-react-hooks@npm:4.6.0":
+  version: 4.6.0
+  resolution: "eslint-plugin-react-hooks@npm:4.6.0"
   peerDependencies:
     eslint: ^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0-0
-  checksum: 081921e84647cddf29114bba8bb9253f2d0ab3626fa7df7d8f35edb073e6b2a094858699e47868f08160f3633ff8055bcedc87700642b87f07d89dd0e7601dfa
+  checksum: 58c7e10ea5792c33346fcf5cb4024e14837035ce412ff99c2dcb7c4f903dc9b17939078f80bfef826301ce326582c396c00e8e0ac9d10ac2cde2b42d33763c65
   languageName: node
   linkType: hard
 
@@ -25949,10 +25949,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-refresh@npm:0.13.0":
-  version: 0.13.0
-  resolution: "react-refresh@npm:0.13.0"
-  checksum: cb9f324d471485e569628854dc08d1550c0798cde57f1bfb8d954e006659de1da0bdccaf7d5d2ac0d3d53df1aae7b740b2a36128789afb8aff0f7ec01b128587
+"react-refresh@npm:0.14.0":
+  version: 0.14.0
+  resolution: "react-refresh@npm:0.14.0"
+  checksum: b8ae07ad153357d77830928a7f1fc2df837aabefee907fa273ba04c7643f3b860e986f1d4b7ada9b721c8d79b8c24b5b911a314a1a2398b105f1b13d19ea2b8d
   languageName: node
   linkType: hard
 
