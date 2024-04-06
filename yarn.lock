@@ -6452,7 +6452,7 @@ __metadata:
     "@testing-library/react-hooks": 8.0.1
     "@testing-library/user-event": 14.2.0
     "@types/aws-lambda": 8.10.137
-    "@types/babel-core": 6.25.7
+    "@types/babel-core": 6.25.10
     "@types/jest": 27.5.2
     "@types/node": 16.11.38
     "@types/react": 17.0.80
@@ -8024,16 +8024,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/babel-core@npm:6.25.7":
-  version: 6.25.7
-  resolution: "@types/babel-core@npm:6.25.7"
+"@types/babel-core@npm:6.25.10":
+  version: 6.25.10
+  resolution: "@types/babel-core@npm:6.25.10"
   dependencies:
     "@types/babel-generator": "*"
     "@types/babel-template": "*"
     "@types/babel-traverse": "*"
     "@types/babel-types": "*"
     "@types/babylon": "*"
-  checksum: 944eb5cb7a68ff381596e258add9ea9d7d1ff607921641ac1f14ec6e3d6aee1640a312911bc147a4d32835ee63cecbcf60b0ee0a90ce438a36c1d460c888001a
+  checksum: 4a0e26acc0aed7ffed6aa0ee63fedb8dedac1f11633229ff0c09d27cf02863fa2c25cbb99eecfa5004449b84027b3ab4abe2d29a936784cb2a85e4d49593b4e4
   languageName: node
   linkType: hard
 
