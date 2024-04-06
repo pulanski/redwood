@@ -6377,7 +6377,7 @@ __metadata:
     "@prisma/sdk": 3.15.2
     "@redwoodjs/internal": 2.0.0
     "@types/fs-extra": 9.0.13
-    "@types/line-column": 1.0.0
+    "@types/line-column": 1.0.2
     "@types/lodash": 4.14.182
     "@types/lru-cache": 5.1.1
     "@types/node": 16.11.38
@@ -8510,10 +8510,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/line-column@npm:1.0.0":
-  version: 1.0.0
-  resolution: "@types/line-column@npm:1.0.0"
-  checksum: 70503f45d4e0953b470067df22911e0a9e877f5d8459dcbc2bbebc7dd8534114ef99fd0f0926e657fb9711e45e3ffaa7fb04469b605252f4309dbe66cb1c9489
+"@types/line-column@npm:1.0.2":
+  version: 1.0.2
+  resolution: "@types/line-column@npm:1.0.2"
+  checksum: b6e0a6c235e5d70b12b9c8a520d7198a8d3863fdcb046d324e0fa79b213881dc44f5d5ec0f8d28f92ee686830bef606dfff2cf44667a48caab95509f3d77c16c
   languageName: node
   linkType: hard
 
